@@ -2,12 +2,12 @@
 
 This repository documents hands‑on learning across fundamentals of SoC design, the VSDBabySoC mixed‑signal SoC, and the RVMYTH–AVSD DAC interface on sky130, covering RTL‑to‑GDS, open‑source EDA flows, and mixed‑signal integration.
 
-![Top Simulation 1](Screenshot-from-2025-10-04-16-40-58.jpg)
-![Top Simulation 2](Screenshot-from-2025-10-04-16-57-22.jpg)
-![RVMYTH+Dac TB View](Screenshot-from-2025-10-04-16-32-46.jpg)
-![DAC TB Transfer](Screenshot-from-2025-10-04-16-17-02.jpg)
-![RVMYTH Core TB](Screenshot-from-2025-10-04-17-14-55.jpg)
-![VSDBabySoC Waves](Screenshot-from-2025-10-04-17-56-18.jpg)
+![Top Simulation 1](Screenshot-from-2025-10-04-16-40-58.png)
+![Top Simulation 2](Screenshot-from-2025-10-04-16-57-22.png)
+![RVMYTH+Dac TB View](Screenshot-from-2025-10-04-16-32-46.png)
+![DAC TB Transfer](Screenshot-from-2025-10-04-16-17-02.png)
+![RVMYTH Core TB](Screenshot-from-2025-10-04-17-14-55.png)
+![VSDBabySoC Waves](Screenshot-from-2025-10-04-17-56-18.png)
 
 ---
 
