@@ -109,5 +109,5 @@ This repository documents hands‑on learning across fundamentals of SoC design,
 
 ---
 
-## Quickstart
+
 
